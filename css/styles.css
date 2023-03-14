@@ -10,6 +10,7 @@ body {
 	max-width: 1400px;
 	margin: 0 auto;
 	width: 100%;
+	transition: all 200ms ease;
 }
 
 .header {
@@ -52,9 +53,9 @@ body {
 	position: fixed;
 	padding: 10px 0;
 }
-/* ._fixed-tags .container {
+._fixed-tags .container {
 	max-width: 1500px;
-} */
+}
 
 .section {
 	height: 500px;
